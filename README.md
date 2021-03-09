@@ -6,7 +6,9 @@
 ██████╔╝██████╔╝███████╗███████╗███████╗███████╗╚█████╔╝
 ╚═════╝░╚═════╝░╚══════╝╚══════╝╚══════╝╚══════╝░╚════╝░
 
-Theme fully compatibile with 351ELEC
+# Theme fully compatibile with 351ELEC
+
+Added every system and change name of existing ones, cleaned up.
 
 # Nintendo Switch Theme for EmulationStation on 480x320 displays
 Over the last few days I have been working on this theme further. I updated all the icons a few days ago and decided to update the rest of the theme. 
@@ -28,7 +30,7 @@ System View - Light and Dark
 
 ![https://i.imgur.com/aIRWDFB.png](https://i.imgur.com/aIRWDFB.png)
 
-# Fork notes - Jetup13
+# Fork notes - thanks for Jetup13 for his ArkOs Edits
 - This fork was desgined for smaller displays that are around 480x320
 - Added Gridview
 - Added more system images and renamed some names
