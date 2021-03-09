@@ -1,3 +1,13 @@
+
+██████╗░███████╗░░███╗░░███████╗██╗░░░░░███████╗░█████╗░
+╚════██╗██╔════╝░████║░░██╔════╝██║░░░░░██╔════╝██╔══██╗
+░█████╔╝██████╗░██╔██║░░█████╗░░██║░░░░░█████╗░░██║░░╚═╝
+░╚═══██╗╚════██╗╚═╝██║░░██╔══╝░░██║░░░░░██╔══╝░░██║░░██╗
+██████╔╝██████╔╝███████╗███████╗███████╗███████╗╚█████╔╝
+╚═════╝░╚═════╝░╚══════╝╚══════╝╚══════╝╚══════╝░╚════╝░
+
+Theme fully compatibile with 351ELEC
+
 # Nintendo Switch Theme for EmulationStation on 480x320 displays
 Over the last few days I have been working on this theme further. I updated all the icons a few days ago and decided to update the rest of the theme. 
 
@@ -19,7 +29,7 @@ System View - Light and Dark
 ![https://i.imgur.com/aIRWDFB.png](https://i.imgur.com/aIRWDFB.png)
 
 # Fork notes - Jetup13
-- This fork was desgined for smaller displays that are around 480x320 (OGA, RGB10, RK2020, ect....)
+- This fork was desgined for smaller displays that are around 480x320
 - Added Gridview
 - Added more system images and renamed some names
 - Added a clock for supported emulationstation builds
