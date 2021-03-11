@@ -41,3 +41,6 @@ System View - Light and Dark
 - Added toggle option for on-screen help image to turn off or on
 - Added toggle option to force system name to uppercase
 - Added 11 new theme colors (Black, Yellow, Teal, Mint Green, Rose Pink, Red, Dark Crystal, Dark Indigo Crystal, Dark Blue Crystal, Dark Mint Crystal, Dark Red Crystal)
+
+# LOGO NOTICE:
+The used logos and trademarks are copyright of their respective owners.
